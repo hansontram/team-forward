@@ -102,10 +102,10 @@ node server.js
 ## 🛠 The Team
 
 ### Developers
+- [Hanson](https://github.com/hansontram)
 - [Sarah](https://github.com/smurph7894)
 - [Aya](https://github.com/adbshiau) 
 - [Andrew](https://github.com/Andrewgl22)
-- [Hanson](https://github.com/hansontram)
 
 ### Product Owners
 - [Bahareh](https://github.com/onetoughcookie226)
@@ -123,7 +123,7 @@ node server.js
 
 
 
-#### Thank you to Jim and the [Chingu](https://www.chingu.io/) team!
+#### Special shoutout and thank you to Jim and the [Chingu](https://www.chingu.io/) team for the opportunity!
 
 
 
